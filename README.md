@@ -33,7 +33,7 @@
  - Intrested Hacking & Red Team
 
 ## Contact Linuxdroid
-## WhatsApp No. [+917758025245](https://wa.me/+917758025245)
+## WhatsApp No. [+917758025245](https://api.whatsapp.com/send/?phone=917758025245&text=Hi+Linuxndroid&type=phone_number&app_absent=0)
 
 ## Happy Hacking
 ## Disclaimer
