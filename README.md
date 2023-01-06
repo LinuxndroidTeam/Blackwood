@@ -32,6 +32,9 @@
  - Windows 10 & 11
  - Hindi Understend
  - Intrested Hacking & Red Team
+ 
+ ## Contact Linuxndroid
+<b>Chat on [Telegram](https://t.me/Linuxndroid/)</b>
 
 ## Contact Linuxdroid
 ## WhatsApp No. [+917758025245](https://api.whatsapp.com/send/?phone=917758025245&text=Hi+Linuxndroid&type=phone_number&app_absent=0)
